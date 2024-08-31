@@ -63,7 +63,7 @@ const Hero = () => {
       </motion.div>
       
       <div className="imageContainer">
-        <img src="/public/hero.png" alt="" />
+        <img src="/hero.png" alt="" />
       </div>
     </div>
   )
